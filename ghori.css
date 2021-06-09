@@ -1,0 +1,200 @@
+.header{
+    background: rgba(250, 248, 248, 0.342);
+}
+.logo img{
+    width: 180px;
+    height: auto;
+    margin-top: 8px;
+}
+
+.menu ul{
+    
+    margin-top: 5px;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    display: block;
+    color: black;
+    text-decoration: none;
+    padding: 10px 10px;
+    margin-left: 20px;
+}
+.menu ul li a:hover{
+    color: red;
+}
+.contact{
+    margin-top: 15px;
+}
+.form{
+    margin-top: 10px;
+    
+}
+.btn-1{
+    margin-top: 8px;
+    border: 1px solid black;
+    padding: 0px 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    background: white;
+  
+    
+}
+.btn-1 h6{
+    color: red;
+    font-weight: bold;
+}
+
+.btn-2{
+    margin-top: 8px;
+    border: 1px solid black;
+    padding: 0px 5px;
+    border-radius: 5px;
+    display: inline-block;
+    background: black;
+    
+  
+}
+.btn-2 h6{
+    color: white;
+    font-weight: bold;
+}
+.banner{
+    background-image: url(../ghorilearning/banner.jpg);
+    padding: 200px 0;
+    background-size: cover;
+}
+.banner .b1{
+    float: left;
+    margin-top: 40px;
+    border: 1px solid white;
+    border: transparent;
+    border-radius: 5px;
+    background-color: rgba(189, 31, 78, 0.445);
+    padding: 0 10px;
+}
+.banner .b2{
+    float: right;
+    margin-right: 720px;
+    margin-top: 40px;
+    border: 1px solid white;
+    border: transparent;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    padding: 0 10px;
+}
+.banner-text h1{
+    color: white;
+    font-weight: bold;
+}
+.banner-text h5{
+   
+    margin-top: 10px;
+}
+.service1{
+    background: rgb(228, 214, 214);
+    margin-top: 20px;
+    padding: 15px 0;
+}
+.service2{
+    background: #494343b0;
+    padding: 20px 0;
+    
+}
+.service2 h2{
+    color: white;
+}
+.service2 p{
+    color: white;
+}
+.service2 h4{
+    color: white;
+    border: 1px solid white;
+    border: transparent;
+    border-radius: 5px;
+    background-color: tomato;
+    padding: 10px 10px;
+    display: inline-block;
+}
+.service2-text{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.service2 img{
+    height: 200px;
+}
+.service3 img{
+    max-width: 100%;
+    margin-top: 30px;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+.bundel{
+    margin-top: 50px;
+    margin-left: 150px;
+    font-weight: bold;
+}
+.bundel2 img{
+    max-width: 100%;
+}
+.views1{
+    float: left;
+}
+.bundel2 h5{
+    margin-top: 120px;
+    margin-left: 130px;
+    font-weight: bold;
+}
+.service4{
+    margin-top: 50px;
+
+}
+.bundel2 h1,h2,h3,h4,h5,h6,p{
+    margin-top: 10px;
+}
+.bundel3 img{
+    max-width: 100%;
+}
+.bundel3 h5{
+    margin-top: 120px;
+    margin-left: 130px;
+    font-weight: bold;
+}
+.bundel3 h1,h2,h3,h4,h5,h6,p{
+    margin-top: 10px;
+}
+.bundel4 img{
+    max-width: 100%;
+}
+.bundel4 h6{
+    font-weight: bold;
+}
+.bundel4 h5{
+    margin-top: 120px;
+    margin-left: 130px;
+    font-weight: bold;
+}
+.box{
+    background: #423c3c;
+    color: white;
+    height: 300px;
+    width: auto;
+    padding: 30px 0;
+    margin-top: 50px;
+}
+.box h2 p{
+   
+}
+.footer{}
+.footer ul{}
+.footer ul li{
+    display: inline-block;
+}
+.footer ul li a{
+    display: block;
+    padding: 10px 0;
+    color: black;
+    text-decoration: none;
+}
